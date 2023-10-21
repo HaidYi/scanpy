@@ -54,7 +54,7 @@ def random_feats(
 
 def sketch(
     adata: AnnData,
-    n_sketch: Optional[int] = None,
+    n_sketch: int,
     use_rep: Optional[str] = None,
     n_pcs: Optional[int] = None,
     random_state: AnyRandom = 0,
