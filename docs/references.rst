@@ -268,3 +268,11 @@ References
 .. [Zunder15] Zunder *et al.* (2015),
    *A continuous molecular roadmap to iPSC reprogramming through progression analysis of single-cell mass cytometry*,
    `Cell Stem Cell <https://doi.org/10.1016/j.stem.2015.01.015>`__.
+
+.. [Hie19gs] Hie *et al.* (2019),
+   *Geometric sketching compactly summarizes the single-cell transcriptomic landscape*,
+   `Cell Systems <https://doi.org/10.1016%2Fj.cels.2019.05.003>`__.
+
+.. [Vishal22] Vishal *et al.* (2022),
+   *Distribution-based sketching of single-cell samples*,
+   `ACM-BCB 2022 <https://doi.org/10.1145/3535508.3545539>`
